@@ -29,6 +29,7 @@
   },
   "workspaces": [
     "projects/counter",
-    "projects/student-form"
+    "projects/student-form",
+    "projects/todo-list"
   ]
 }
